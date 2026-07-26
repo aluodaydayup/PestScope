@@ -1,0 +1,18 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime outputs
+output/
+gradio_out/
+checkpoints/
+
+# Local environment files
+.env
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
