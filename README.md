@@ -67,7 +67,7 @@ https://www.modelscope.cn/models/luohuibin/PestScope-7b
 The PestScope-7B training dataset is available at:
 
 ```text
-https://www.modelscope.cn/datasets/luohuibin/pestscope_data
+[https://www.modelscope.cn/datasets/luohuibin/pestscope_data](https://www.modelscope.cn/models/luohuibin/pestscope_data/)
 ```
 
 ## Dataset Construction
